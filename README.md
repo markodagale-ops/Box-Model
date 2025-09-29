@@ -35,8 +35,8 @@
 </head>
 <body>
   <div class="first">
-    <p><h3>When a man ignores you, he is focused on his mentioned.
-    But when a woman ignores you, she is probably entertaining someone else</h3></p>
+    <p><h6>When a man ignores you, he is focused on his mentioned.
+    But when a woman ignores you, she is probably entertaining someone else</h6></p>
   </div>
   <div class="second">
   </div>
