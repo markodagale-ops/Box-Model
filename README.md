@@ -33,8 +33,8 @@
 </head>
 <body>
   <div class="first">
-    <p><center>When a man ignores you, he is focused on his mentioned. 
-    But when a woman ignores you, she is probably entertaining someone else</center></p>
+    <p>When a man ignores you, he is focused on his mentioned.
+    But when a woman ignores you, she is probably entertaining someone else</p>
   </div>
   <div class="second">
   </div>
